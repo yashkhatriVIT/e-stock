@@ -32,6 +32,10 @@ Output Snaps
 <img width="626" alt="Screenshot 2023-07-07 at 9 40 38 AM" src="https://github.com/yashkhatriVIT/e-stock/assets/55588209/c2271b42-1d82-472b-a958-b8670e7eb6e3">
 
 Validations
+
 ⇒ Check to make sure the stock values is fixed upto 2 decimal places
+
 ⇒ Invalid URL
+
 ⇒ Turnover should be greater than 10cr
+
